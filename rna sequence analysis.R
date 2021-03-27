@@ -123,29 +123,7 @@ heatmap(as.matrix(expression_data_heatmap))
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#control versus 1x concentration
+#control versus 10x concentration
 
 #remove the 1x from the count and metadata 
 
